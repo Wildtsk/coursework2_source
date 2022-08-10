@@ -1,3 +1,32 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Wildtsk 
+skypro-008
+/
+coursework2_source
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+coursework2_source/css/styles.min.css
+@kushedow
+kushedow fix user-feed template header
+Latest commit bf54330 3 days ago
+ History
+ 2 contributors
+@gkatejka@kushedow
+514 lines (429 sloc)  7.29 KB
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
@@ -256,6 +285,12 @@ textarea {
 	max-width: 100%
 }
 
+.header__logo-text {
+  margin-top:0;
+  color: black;
+  text-transform: uppercase;
+}
+
 .header__bookmark-btn {
 	position: absolute;
 	right: 0;
@@ -506,3 +541,18 @@ textarea {
 
 
 /*# sourceMappingURL=styles.min.css.map */
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+You have no unread notifications
