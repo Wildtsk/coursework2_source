@@ -1,4 +1,4 @@
-from flask import json
+from flask import json, jsonify
 
 
 def get_posts_all() -> list[dict]:
