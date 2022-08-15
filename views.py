@@ -42,3 +42,4 @@ def bar(error):
 def post_by_username_page(username):
     posts = get_posts_by_user(username)
     return render_template("user-feed.html", posts=posts, name=username)
+
